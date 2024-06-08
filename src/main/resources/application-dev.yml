@@ -1,0 +1,22 @@
+#spring:
+#  datasource:
+#    driver-class-name: org.postgresql.Driver
+#    url: jdbc:postgresql://139.198.158.243:5432/atom?useUnicode=True&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+#    username: postgres
+#    password: qingCloudA1
+#
+#  jpa:
+#    database: postgresql
+#    database-platform: org.hibernate.dialect.PostgreSQL9Dialect
+#
+#  mail:
+#    host: smtp.163.com
+#    port: 465
+#    username: adamboov@163.com
+#    password: JBJBDNRBGLWWOGMI
+#    protocol: smtps
+#    properties:
+#      mail:
+#        smtp:
+#          ssl:
+#            enable: true
